@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<cfg type="serial_index" version="1">
+  <manufacturer dir="FLEXEM">
+    <lang name="zh" value="繁易" />
+    <lang name="en" value="FLEXEM" />
+  </manufacturer>
+  <manufacturer dir="MODBUS">
+    <lang name="zh" value="MODBUS 兼容设备" />
+    <lang name="en" value="MODBUS Compatible" />
+  </manufacturer>
+  <manufacturer dir="SIEMENS">
+    <lang name="zh" value="西门子" />
+    <lang name="en" value="SIEMENS" />
+  </manufacturer>
+  <manufacturer dir="PANASONIC">
+    <lang name="zh" value="松下" />
+    <lang name="en" value="PANASONIC" />
+  </manufacturer>
+  <manufacturer dir="MITSUBISHI">
+    <lang name="zh" value="三菱" />
+    <lang name="en" value="MITSUBISHI" />
+  </manufacturer>
+  <manufacturer dir="FATEK">
+    <lang name="zh" value="永宏" />
+    <lang name="en" value="FATEK" />
+  </manufacturer>
+  <manufacturer dir="HOLLYSYS">
+    <lang name="zh" value="和利时" />
+    <lang name="en" value="HOLLYSYS" />
+  </manufacturer>
+  <manufacturer dir="DELTA">
+    <lang name="zh" value="台达" />
+    <lang name="en" value="DELTA" />
+  </manufacturer>
+  <manufacturer dir="Inovance_H2u">
+    <lang name="zh" value="汇川" />
+    <lang name="en" value="Inovance_H2u" />
+  </manufacturer>
+  <manufacturer dir="MEGMEET">
+    <lang name="zh" value="麦格米特" />
+    <lang name="en" value="MEGMEET" />
+  </manufacturer>
+  <manufacturer dir="MIKOM">
+    <lang name="zh" value="麦科" />
+    <lang name="en" value="MIKOM" />
+  </manufacturer>
+  <manufacturer dir="KeWei">
+    <lang name="zh" value="科威" />
+    <lang name="en" value="KeWei" />
+  </manufacturer>
+  <manufacturer dir="KINCO">
+    <lang name="zh" value="步科" />
+    <lang name="en" value="KINCO" />
+  </manufacturer>
+  <manufacturer dir="HCFA">
+    <lang name="zh" value="禾川" />
+    <lang name="en" value="HCFA" />
+  </manufacturer>
+  <manufacturer dir="Yaskawa">
+    <lang name="zh" value="安川" />
+    <lang name="en" value="Yaskawa" />
+  </manufacturer>
+    <manufacturer dir="KEYENCE">
+    <lang name="zh" value="基恩士" />
+    <lang name="en" value="KEYENCE" />
+  </manufacturer>
+      <manufacturer dir="OMRON">
+    <lang name="zh" value="欧姆龙" />
+    <lang name="en" value="OMRON" />
+  </manufacturer>
+    <manufacturer dir="TRIO">
+    <lang name="zh" value="翠欧" />
+    <lang name="en" value="TRIO" />
+  </manufacturer>
+        <manufacturer dir="Hitachi">
+    <lang name="zh" value="日立" />
+    <lang name="en" value="Hitachi" />
+  </manufacturer>
+      <manufacturer dir="LS">
+    <lang name="zh" value="LS" />
+    <lang name="en" value="LS" />
+  </manufacturer>  
+      <manufacturer dir="THINGET ">
+    <lang name="zh" value="信捷" />
+    <lang name="en" value="THINGET" />
+  </manufacturer>  
+      <manufacturer dir="Yokogawa">
+    <lang name="zh" value="横河" />
+    <lang name="en" value="Yokogawa" />
+  </manufacturer>
+        <manufacturer dir="TENDZONE">
+    <lang name="zh" value="东微" />
+    <lang name="en" value="TENDZONE" />
+  </manufacturer>
+</cfg>

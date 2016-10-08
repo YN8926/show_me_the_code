@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Hello Vue.JS</title>
+    <link rel="stylesheet" href="../css/blueprint/screen.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="../css/blueprint/print.css" type="text/css" media="print">
+    <!--[if lt IE 8]>
+  	<link rel="stylesheet" href="../css/blueprint/ie.css" type="text/css" media="screen, projection">
+	<![endif]-->
+	<script type="text/javascript" src="../js/vue.min.js"></script>
+    <style type="text/css">
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+    	<div class="span-8">
+    		<ul id="forTest">
+    			<li v-for="todo in todolist">{{todo.text}}</li>
+    		</ul>
+    	</div>
+    </div>
+</body>
+<script>
+	var vue = new Vue({
+		el:"#forTest",
+		data:{
+			todolist:[
+			          {text:"1"},
+			          {text:"2"}]
+		}
+	});
+</script>
+</html>

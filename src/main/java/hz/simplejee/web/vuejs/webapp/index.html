@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print">
+    <!--[if lt IE 8]>
+  <link rel="stylesheet" href="css/blueprint/ie.css" type="text/css" media="screen, projection">
+<![endif]-->
+    <title>VueJS首页</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>VueJS首页</h1>
+        <div class="box">
+            <p>Vue.js是用于构建交互式Web界面的JS类库，提供了MVVM数据绑定和一个可组合的组件系统。Vue.JS集中在MVVM模式上的视图模型层，并通过双向数据绑定连接视图和模型，实际的DOM操作和输出格式被抽象成指令（Directives）和过滤器（Filters）。</p>
+            <p>
+                Vue.js 的 API 是参考了 AngularJS、KnockoutJS、Ractive.js、Rivets.js。
+            </p>
+            <h2>核心概念</h2>
+            <ol>
+            	<li>
+            		<b>ViewModel</b><br>
+					<p>一个对象，通过模型和视图。在Vue.JS中，ViewModel是实例化的Vue的构造器或者其子类</p>
+					<code>
+						var vm = new Vue({/* options */})
+					</code>
+            	</li>
+            	<li>
+            		<b>View</b>
+            		<p>用户看到的实际HTML DOM</p>
+            		<code>vm.$el</code>
+            	</li>
+            	<li>
+            		<b>Model</b>
+            		<p>这是一个略微修改的JavaScript对象</p>
+            		<code>vm.$data</code>
+            	</li>
+            	<li>
+            		<b>Directives</b>
+            		<p>私有的HTML属性告诉Vue.js做一些关于DOM的处理</p>
+            		<code>&lt;div v-text="message"&gt;&lt;/div&gt;</code>
+            	</li>
+            	<li>
+            		<b>Mustache Bindings</b>
+            		<p>可以使用mustache-style绑定文本和属性，它们会被翻译成v-text,v-attr指令</p>
+            		<code>
+            			&lt;div id="id-{{id}}"&gt;Hello {{name}}!&lt;div&gt;
+            		</code>
+            		<p>但是当设置一个image的src属性时，会触发http请求，所以当模板首次加载的时候会出现404，此时用v-attr比较好</p>
+            	</li>
+            </ol>
+        </div>
+        <div class="span-8 colborder">
+        	<h1>Example</h1>
+            <ul style="list-style:none">
+                <li><a href="example/hello.html">Hello Vue.js</a></li>
+                <li><a href="example/directive_basic.html">基础指令</a></li>
+                <li><a href="example/list.html">循环指令</a></li>
+                <li><a href="example/expression.html">vuejs表达式</a></li>
+            </ul>
+        </div>
+        <div class="span-8 colborder">
+        	<h1>参考资料</h1>
+        	<ul>
+        		<li>
+        			<a href="http://wiki.jikexueyuan.com/project/vue-js/start.html">极客学院Vue.js教程</a>
+        		</li>
+        	</ul>
+        </div>
+        <div class="span-4 colborder">
+        	<h1>案例</h1>
+        	<ul>
+        		<li>
+        			<a href="http://www.talkingcoder.com/">talkingcoder</a>
+        		</li>
+        	</ul>
+        </div>
+    </div>
+</body>
+
+</html>

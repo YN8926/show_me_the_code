@@ -1,0 +1,14 @@
+<!DOCTYPE dwr PUBLIC
+    "-//GetAhead Limited//DTD Direct Web Remoting 3.0//EN"
+    "http://getahead.org/dwr/dwr30.dtd">
+<dwr>
+	<allow>
+		<!-- messagePush会对应一个JavaScript对象, creator="new"标识dwr自己创建类 -->
+		<create creator="new" javascript="messagePush">
+			<param name="class" value="hz.simplejee.dwr.hello.dwr.Hello" />
+		</create>
+		<create creator="new" javascript="JDate">
+			<param name="class" value="java.util.Date" />
+		</create>
+	</allow>
+</dwr>  

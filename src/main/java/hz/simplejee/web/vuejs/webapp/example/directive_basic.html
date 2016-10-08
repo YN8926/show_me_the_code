@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Hello Vue.JS</title>
+    <link rel="stylesheet" href="../css/blueprint/screen.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="../css/blueprint/print.css" type="text/css" media="print">
+    <!--[if lt IE 8]>
+  	<link rel="stylesheet" href="../css/blueprint/ie.css" type="text/css" media="screen, projection">
+	<![endif]-->
+	<script type="text/javascript" src="../js/vue.min.js"></script>
+    <style type="text/css">
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+    	<div class="span-24">
+    		<ul style="list-style:none">
+                <li>
+                    <div class="info">
+                        <h6>v-model</h6>
+                        <p>可用于一些表单元素，如input,checkbox,radio,select</p>
+                    </div>
+                </li>
+                <li>
+                    <div class="info">
+                        <h6>v-for</h6>
+                        <p>可完成列表渲染，v-for指令取代了1.0时代的v-repeat</p>
+                        <table id="v-for-1">
+                            <tr v-for="book in books">
+                                <td>{{book.id}}</td>
+                                <td>{{book.name}}</td>
+                            </tr>
+                        </table>
+                    </div>
+                </li>
+                <li>
+                    <div class="info">
+                        <h6>v-on</h6>
+                        <p>通过v-on可完成事件处理与绑定</p>
+                        <div class="btn-list">
+                            <button v-on:click="btnClick">测试按钮-1</button>
+                            <button @click="btnClick">测试按钮-2</button>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+    	</div>
+    </div>
+</body>
+<script>
+	new Vue({
+        el:"#v-for-1",
+        data:{
+            books:[{id:1,name:"AAA"},{id:2,name:"BBB"},{id:3,name:"CCC"}]
+        }
+    });
+    new Vue({
+        el:".btn-list",
+        methods:{
+            btnClick:function(evt){
+                alert('测试按钮被点击.');
+            }
+        }
+    });
+</script>
+</html>

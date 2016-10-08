@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+	http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+	
+	<servlet>
+		<servlet-name>spring-mvc</servlet-name>
+		<!-- 
+			servlet-name比较重要,默认情况下, DispatcherServlet在加载时会默认加载一个servlet-name-servlet.xml的Spring 配置文件
+		 -->
+		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+		<load-on-startup>2</load-on-startup>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>spring-mvc</servlet-name>
+		<!-- 
+		/*:表明Dispatcher将处理所有请求,这会在在处理图片\样式这样的静态资源上存在问题(通过mvc:resources配置解决);
+		/app:这样会在URL中暴露具体实现细节,为了隐藏路径通常需要复杂的URL重写技巧;
+		/:推荐使用,表明它会作为默认的servlet并且会处理所有的请求(包括静态资源)
+		 -->
+		<url-pattern>/</url-pattern>
+	</servlet-mapping>
+</web-app>

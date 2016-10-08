@@ -1,0 +1,3 @@
+# ByteBuf概述
+  ByteBuf通过二个位置指针来协助缓冲区的读写操作,读操作使用readerIndex,写操作使用writerIndex;
+  readerIndex和writerIndex初始值均为0,随着数据的写入writerIndex会增加,读数据则会使readerIndex增加,但readerIndex不会操作writerIndex.在读取完成之后,0~readerIndex的数据被视为discard,调用discardReadBytes可释放此部分空间(类似于ByteBuffer的compact方法)

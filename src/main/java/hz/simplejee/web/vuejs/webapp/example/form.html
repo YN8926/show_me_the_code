@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Hello Vue.JS</title>
+    <link rel="stylesheet" href="../css/blueprint/screen.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="../css/blueprint/print.css" type="text/css" media="print">
+    <!--[if lt IE 8]>
+  	<link rel="stylesheet" href="../css/blueprint/ie.css" type="text/css" media="screen, projection">
+	<![endif]-->
+	<script type="text/javascript" src="../js/vue.min.js"></script>
+    <style type="text/css">
+
+    </style>
+</head>
+
+<body>
+    <div class="container" id="formTest">
+    	<div class="span-8">
+    		<select v-model="s" v-bind:text="d">
+    			<option v-for="cl in cityList" :value="cl.value" >
+    				{{cl.text}}
+    			</option>
+    		</select>
+    		<input type="hidden" v-model="abc" value="{{s|xyz}}"/>
+    		<button v-on:click="dd">获取值</button>
+    	</div>
+    </div>
+</body>
+<script>
+	var vue = new Vue({
+		el:"#formTest",
+		data:{
+			s:1,
+			cityList:[
+			          {text:"北京", value:"1"},
+			          {text:"上海", value:"2"}]
+		},
+		methods:{
+			dd:function(){
+				console.log(this.abc);
+			}
+		},
+		filters:{
+			xyz:function(val){
+				var v = '';
+				this.cityList.map(function(el){
+					if(val == el.value){
+						v = el.text;
+					}
+				});
+				return v;
+			}
+		}
+	});
+</script>
+</html>
