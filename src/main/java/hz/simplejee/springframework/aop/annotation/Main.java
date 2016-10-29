@@ -1,19 +1,20 @@
-package hz.simplejee.springframework.config.annotation;
+package hz.simplejee.springframework.aop.annotation;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 /**
  * Created by 辉辉大侠 on 29/10/2016.
  */
 @Configuration
-@ComponentScan(basePackages = "hz.simplejee.springframework.config.annotation")
+@ComponentScan(basePackages = "hz.simplejee.springframework.aop.annotation")
+@EnableAspectJAutoProxy//开启Spring对AspectJ的支持
 public class Main {
     public static void main(String[] args) {
         AnnotationConfigApplicationContext cxt = new AnnotationConfigApplicationContext(Main.class);
-        MyService service = cxt.getBean(MyService.class);
-        System.out.println(service.sayHello("ceshi"));
-        cxt.close();
+        MyService myService = cxt.getBean(MyService.class);
+        myService.add();
     }
 }
