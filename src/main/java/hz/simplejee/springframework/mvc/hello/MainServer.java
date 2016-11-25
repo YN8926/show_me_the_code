@@ -8,7 +8,7 @@ public class MainServer {
 	public static void main(String[] args) throws Exception {
 		Server server = new Server(8099);
 		WebAppContext webContxt = new WebAppContext();
-		webContxt.setContextPath("/spring");
+		webContxt.setContextPath("/");
 		webContxt.setWar(ResourcesUtils.getClassDir(MainServer.class) + "webapp");
 		server.setHandler(webContxt);
 		server.start();
