@@ -16,7 +16,7 @@ public class T {
         ddd(s);
     }
 
-    private static void ddd(String ceshi1) {
+    public static void ddd(String ceshi1) {
         String ceshi = CESH;
         x = ceshi1;
         System.out.println(x);
