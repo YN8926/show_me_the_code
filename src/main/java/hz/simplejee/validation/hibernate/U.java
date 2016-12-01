@@ -26,7 +26,7 @@ import javax.validation.constraints.AssertTrue;
  */
 public class U {
 
-	@AssertTrue
+	@AssertTrue(message = "不能为空")
 	private Boolean flag;
 
 	public Boolean getFlag() {
