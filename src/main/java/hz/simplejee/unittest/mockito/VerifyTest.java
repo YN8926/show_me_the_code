@@ -1,6 +1,5 @@
-package hz.simplejee.mockito;
+package hz.simplejee.unittest.mockito;
 
-import io.swagger.models.auth.In;
 import org.junit.Test;
 import org.mockito.InOrder;
 

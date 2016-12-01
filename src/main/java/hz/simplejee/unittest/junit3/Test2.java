@@ -1,4 +1,4 @@
-package hz.simplejee.junit.junit3;
+package hz.simplejee.unittest.junit3;
 
 import junit.framework.TestCase;
 

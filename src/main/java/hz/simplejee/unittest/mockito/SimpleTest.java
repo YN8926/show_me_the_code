@@ -1,4 +1,4 @@
-package hz.simplejee.unit.mockito;
+package hz.simplejee.unittest.mockito;
 
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.doThrow;

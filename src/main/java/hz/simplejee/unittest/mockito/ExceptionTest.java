@@ -1,4 +1,4 @@
-package hz.simplejee.mockito;
+package hz.simplejee.unittest.mockito;
 
 import org.junit.Test;
 

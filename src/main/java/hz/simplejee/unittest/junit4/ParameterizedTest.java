@@ -1,4 +1,4 @@
-package hz.simplejee.junit.junit4;
+package hz.simplejee.unittest.junit4;
 
 import junit.framework.Assert;
 import org.junit.Test;
