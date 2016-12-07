@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="resources/converse/js/converse.min.js"></script>
+    <link type="text/css" rel="stylesheet" media="screen" href="resources/converse/css/converse.min.css"/>
+    <title>Document</title>
+</head>
+<body>
+<script>
+    require(['converse'], function (converse) {
+        converse.initialize({
+            bosh_service_url: 'http://localhost:7070/http-bind/',
+            i18n: locales['zh'],
+            keepalive: true,
+            message_carbons: true,
+            play_sounds: true,
+            roster_groups: true,
+            show_controlbox_by_default: true,
+            xhr_user_search: false,
+            allow_muc: false,
+            auto_reconnect: true,
+            allow_registration: false,
+            debug: false,
+            use_otr_by_default: true,
+            visible_toolbar_buttons: {
+                call: false,
+                clear: true,
+                emoticons: true,
+                toggle_participants: false
+            }
+        })
+    })
+
+</script>
+</body>
+</html>
