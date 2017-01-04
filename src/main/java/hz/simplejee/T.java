@@ -9,11 +9,8 @@ public class T {
     private static String x;
 
     public static void main(String[] args) {
-        String s = "def.abc.txt.";
+        String s = "尊敬的先生：您的爱车于2016-12-27在本店进行了保养，本次保养的公里数为29616KM，请您于2016-12-27或者34616KM进行下次保养，祝您生活愉快！合肥优轮库汽车服务有限公司";
         System.out.println(s.length());
-        System.out.println(s.lastIndexOf("."));
-        System.out.println(s.substring(s.lastIndexOf(". ") + 1));
-        ddd(s);
     }
 
     public static void ddd(String ceshi1) {

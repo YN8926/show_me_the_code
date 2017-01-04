@@ -15,6 +15,7 @@ public class GoodsVo {
 
     @ExcelRowNumber
     private Long rowNumber;
+    @NotNull
     @ExcelCol(value = 0, title = "配件名称")
     private String goodsName;
     @ExcelCol(value = 1, title = "零件号")
@@ -37,6 +38,6 @@ public class GoodsVo {
     private String depot;
     @ExcelCol(value = 10, title = "适配车型")
     private String carModel;
-    @ExcelCol(value = 11, title = "适用部位")
+    @ExcelCol(value = 11, title = "适用部位" )
     private String usedPart;
 }
