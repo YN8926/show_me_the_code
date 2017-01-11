@@ -24,7 +24,7 @@ public class ReturnTest {
          */
         Iterator<String> ltr = mock(Iterator.class);
         when(ltr.next()).thenReturn("Hello").thenReturn("World");
-        Assert.assertEquals("HelloWorld", ltr.next() + ltr.next());
+        Assert.assertEquals("HelloWorldTest", ltr.next() + ltr.next());
 
         /**
          * 第二种写法
