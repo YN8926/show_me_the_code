@@ -16,5 +16,8 @@ public class Main {
         AnnotationConfigApplicationContext cxt = new AnnotationConfigApplicationContext(Main.class);
         MyService myService = cxt.getBean(MyService.class);
         myService.add();
+        MyService2 bean = cxt.getBean(MyService2.class);
+        bean.add();
+        cxt.close();
     }
 }

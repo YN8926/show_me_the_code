@@ -9,4 +9,6 @@ import org.springframework.stereotype.Component;
 public class MyService {
     @MyAnnotation(name = "ceshi")
     public void add(){}
+
+    public void sub(){}
 }

@@ -32,7 +32,7 @@ public class LogAspect {
         System.out.println("注解式拦截>>" + myAnnotation.name());
     }
 
-    @Before("execution(*hz.simplejee.springframework.aop.annotation.MyService.*(..))")
+    @Before("execution(*hz.simplejee.springframework.aop.annotation.MyService2.*(..))")
     public void before(JoinPoint joinPoint) {
         MethodSignature signature = (MethodSignature) joinPoint.getSignature();
         Method method = signature.getMethod();
