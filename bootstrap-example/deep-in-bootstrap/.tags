@@ -1,0 +1,64 @@
+html	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^<head>$/;"	function	line:3
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <meta charset="UTF-8">$/;"	function	line:4
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:5
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <meta http-equiv="X-UA-Compatible" content="ie=edge">$/;"	function	line:6
+title	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <title>基础模板<\/title>$/;"	function	line:7
+link	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <link rel="stylesheet" href="bootstrap-3.3.7\/dist\/css\/bootstrap.css">$/;"	function	line:8
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <script src="http:\/\/cdn.bootcss.com\/html5shiv\/3.7.3\/html5shiv.js"><\/script>$/;"	function	line:12
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <script src="http:\/\/cdn.bootcss.com\/respond.js\/1.4.2\/respond.js"><\/script>$/;"	function	line:13
+body	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^<body>$/;"	function	line:16
+h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <h1>Hello, world!<\/h1>$/;"	function	line:17
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <script src="javascript\/jquery.js"><\/script>$/;"	function	line:19
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <script src="bootstrap-3.3.7\/dist\/js\/bootstrap.js"><\/script>$/;"	function	line:21
+html	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/grid-hello.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/grid-hello.html	/^<head>$/;"	function	line:3
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/grid-hello.html	/^  <meta charset="UTF-8">$/;"	function	line:4
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/grid-hello.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:5
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/grid-hello.html	/^  <meta http-equiv="X-UA-Compatible" content="ie=edge">$/;"	function	line:6
+title	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/grid-hello.html	/^  <title>基础模板<\/title>$/;"	function	line:7
+link	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/grid-hello.html	/^  <link rel="stylesheet" href="bootstrap-3.3.7\/dist\/css\/bootstrap.css">$/;"	function	line:8
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/grid-hello.html	/^  <script src="http:\/\/cdn.bootcss.com\/html5shiv\/3.7.3\/html5shiv.js"><\/script>$/;"	function	line:10
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/grid-hello.html	/^  <script src="http:\/\/cdn.bootcss.com\/respond.js\/1.4.2\/respond.js"><\/script>$/;"	function	line:11
+body	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/grid-hello.html	/^<body>$/;"	function	line:14
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/grid-hello.html	/^    <script src="javascript\/jquery.js"><\/script>$/;"	function	line:16
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/grid-hello.html	/^    <script src="bootstrap-3.3.7\/dist\/js\/bootstrap.js"><\/script>$/;"	function	line:17
+html	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^<head>$/;"	function	line:3
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^  <meta charset="UTF-8">$/;"	function	line:4
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:5
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^  <meta http-equiv="X-UA-Compatible" content="ie=edge">$/;"	function	line:6
+title	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^  <title>CSS Component<\/title>$/;"	function	line:7
+link	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^  <link rel="stylesheet" href="bootstrap-3.3.7\/dist\/css\/bootstrap.css">$/;"	function	line:8
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^  <script src="http:\/\/cdn.bootcss.com\/html5shiv\/3.7.3\/html5shiv.js"><\/script>$/;"	function	line:10
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^  <script src="http:\/\/cdn.bootcss.com\/respond.js\/1.4.2\/respond.js"><\/script>$/;"	function	line:11
+body	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^<body>$/;"	function	line:14
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^    <div class="container">$/;"	function	line:15
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^        <div class="row">$/;"	function	line:16
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-2"><button class="btn">btn<\/button><\/div>$/;"	function	line:17
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-2"><div class="alert alert-primary">alert<\/div><\/div>$/;"	function	line:18
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-2"><\/div>$/;"	function	line:19
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-2"><\/div>$/;"	function	line:20
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-2"><\/div>$/;"	function	line:21
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-2"><\/div>$/;"	function	line:22
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^        <div class="row">$/;"	function	line:24
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-2"><button class="btn btn-primary">重点蓝<\/button><\/div>$/;"	function	line:25
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-2"><button class="btn btn-success">成功绿<\/button><\/div>$/;"	function	line:26
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-2"><button class="btn btn-info">信息蓝<\/button><\/div>$/;"	function	line:27
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-2"><button class="btn btn-warning">警告橙<\/button><\/div>$/;"	function	line:28
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-2"><button class="btn btn-danger">危险红<\/button><\/div>$/;"	function	line:29
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-2"><\/div>$/;"	function	line:30
+hr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^        <hr>$/;"	function	line:32
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^        <div class="row">$/;"	function	line:33
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-3"><button class="btn btn-primary btn-xs">btn-xs<\/button><\/div>$/;"	function	line:34
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-3"><button class="btn btn-primary btn-sm">btn-sm<\/button><\/div>$/;"	function	line:35
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-3"><button class="btn btn-primary">btn<\/button><\/div>$/;"	function	line:36
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-3"><button class="btn btn-primary btn-lg">btn-lg<\/button><\/div>$/;"	function	line:37
+hr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^        <hr>$/;"	function	line:39
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^        <div class="row">$/;"	function	line:40
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-3"><div class="well well-xs">well-xs<\/div><\/div>$/;"	function	line:41
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-3"><div class="well well-sm">well-sm<\/div><\/div>$/;"	function	line:42
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-3"><div class="well">well<\/div><\/div>$/;"	function	line:43
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-3"><div class="well well-lg">well-lg<\/div><\/div>$/;"	function	line:44
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^  <script src="javascript\/jquery.js"><\/script>$/;"	function	line:47
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^  <script src="bootstrap-3.3.7\/dist\/js\/bootstrap.js"><\/script>$/;"	function	line:48
