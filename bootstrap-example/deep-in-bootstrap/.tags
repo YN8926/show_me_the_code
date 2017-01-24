@@ -1,16 +1,3 @@
-html	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^<html lang="en">$/;"	function	line:2
-head	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^<head>$/;"	function	line:3
-meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <meta charset="UTF-8">$/;"	function	line:4
-meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:5
-meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <meta http-equiv="X-UA-Compatible" content="ie=edge">$/;"	function	line:6
-title	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <title>基础模板<\/title>$/;"	function	line:7
-link	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <link rel="stylesheet" href="bootstrap-3.3.7\/dist\/css\/bootstrap.css">$/;"	function	line:8
-script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <script src="http:\/\/cdn.bootcss.com\/html5shiv\/3.7.3\/html5shiv.js"><\/script>$/;"	function	line:12
-script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <script src="http:\/\/cdn.bootcss.com\/respond.js\/1.4.2\/respond.js"><\/script>$/;"	function	line:13
-body	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^<body>$/;"	function	line:16
-h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <h1>Hello, world!<\/h1>$/;"	function	line:17
-script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <script src="javascript\/jquery.js"><\/script>$/;"	function	line:19
-script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^  <script src="bootstrap-3.3.7\/dist\/js\/bootstrap.js"><\/script>$/;"	function	line:21
 html	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/grid-hello.html	/^<html lang="en">$/;"	function	line:2
 head	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/grid-hello.html	/^<head>$/;"	function	line:3
 meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/grid-hello.html	/^  <meta charset="UTF-8">$/;"	function	line:4
@@ -62,3 +49,321 @@ div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/
 div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^            <div class="col-md-3"><div class="well well-lg">well-lg<\/div><\/div>$/;"	function	line:44
 script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^  <script src="javascript\/jquery.js"><\/script>$/;"	function	line:47
 script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/css-component.html	/^  <script src="bootstrap-3.3.7\/dist\/js\/bootstrap.js"><\/script>$/;"	function	line:48
+html	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^<head>$/;"	function	line:3
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^    <meta charset="UTF-8">$/;"	function	line:4
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:5
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^    <meta http-equiv="X-UA-Compatible" content="ie=edge">$/;"	function	line:6
+title	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^    <title>基础模板<\/title>$/;"	function	line:7
+link	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^    <link rel="stylesheet" href="bootstrap-3.3.7\/dist\/css\/bootstrap.css">$/;"	function	line:8
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^    <script src="http:\/\/cdn.bootcss.com\/html5shiv\/3.7.3\/html5shiv.js"><\/script>$/;"	function	line:12
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^    <script src="http:\/\/cdn.bootcss.com\/respond.js\/1.4.2\/respond.js"><\/script>$/;"	function	line:13
+body	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^<body>$/;"	function	line:16
+h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^    <h1>Hello, world!<\/h1>$/;"	function	line:17
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^    <script src="javascript\/jquery.js"><\/script>$/;"	function	line:19
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/template.html	/^    <script src="bootstrap-3.3.7\/dist\/js\/bootstrap.js"><\/script>$/;"	function	line:21
+html	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^<head>$/;"	function	line:3
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^    <meta charset="UTF-8">$/;"	function	line:4
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:5
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^    <meta http-equiv="X-UA-Compatible" content="ie=edge">$/;"	function	line:6
+title	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^    <title>h1~h6<\/title>$/;"	function	line:7
+link	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^    <link rel="stylesheet" href="bootstrap-3.3.7\/dist\/css\/bootstrap.css">$/;"	function	line:8
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^    <script src="http:\/\/cdn.bootcss.com\/html5shiv\/3.7.3\/html5shiv.js"><\/script>$/;"	function	line:12
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^    <script src="http:\/\/cdn.bootcss.com\/respond.js\/1.4.2\/respond.js"><\/script>$/;"	function	line:13
+body	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^<body>$/;"	function	line:16
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^    <div class="container">$/;"	function	line:17
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^        <div class="row">$/;"	function	line:18
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^            <div class="col-md-3">$/;"	function	line:19
+h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <h1>这是标题h1<\/h1>$/;"	function	line:20
+h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <h2>这是标题h2<\/h2>$/;"	function	line:21
+h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <h3>这是标题h3<\/h3>$/;"	function	line:22
+h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <h4>这是标题h4<\/h4>$/;"	function	line:23
+h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <h5>这是标题h5<\/h5>$/;"	function	line:24
+h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <h6>这是标题h6<\/h6>$/;"	function	line:25
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^            <div class="col-md-3">$/;"	function	line:27
+span	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <span class="h1">这是span.h1<\/span><br\/>$/;"	function	line:28
+span	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <span class="h2">这是span.h2<\/span><br\/>$/;"	function	line:29
+span	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <span class="h3">这是span.h3<\/span><br\/>$/;"	function	line:30
+span	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <span class="h4">这是span.h4<\/span><br\/>$/;"	function	line:31
+span	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <span class="h5">这是span.h5<\/span><br\/>$/;"	function	line:32
+span	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <span class="h6">这是span.h6<\/span><br\/>$/;"	function	line:33
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^            <div class="col-md-6">$/;"	function	line:35
+h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <h1>这是标题h1<small>这是标题h1>small<\/small><\/h1>$/;"	function	line:36
+h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <h2>这是标题h2<small>这是标题h2>small<\/small><\/h2>$/;"	function	line:37
+h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <h3>这是标题h3<small>这是标题h3>small<\/small><\/h3>$/;"	function	line:38
+h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <h4>这是标题h4<small>这是标题h4>small<\/small><\/h4>$/;"	function	line:39
+h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <h5>这是标题h5<small>这是标题h5>small<\/small><\/h5>$/;"	function	line:40
+h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^                <h6>这是标题h6<small>这是标题h6>small<\/small><\/h6>$/;"	function	line:41
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^    <script src="javascript\/jquery.js"><\/script>$/;"	function	line:46
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/header.html	/^    <script src="bootstrap-3.3.7\/dist\/js\/bootstrap.js"><\/script>$/;"	function	line:47
+html	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^<head>$/;"	function	line:3
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^    <meta charset="UTF-8">$/;"	function	line:4
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:5
+meta	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^    <meta http-equiv="X-UA-Compatible" content="ie=edge">$/;"	function	line:6
+title	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^    <title>h1~h6<\/title>$/;"	function	line:7
+link	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^    <link rel="stylesheet" href="bootstrap-3.3.7\/dist\/css\/bootstrap.css">$/;"	function	line:8
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^    <script src="http:\/\/cdn.bootcss.com\/html5shiv\/3.7.3\/html5shiv.js"><\/script>$/;"	function	line:12
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^    <script src="http:\/\/cdn.bootcss.com\/respond.js\/1.4.2\/respond.js"><\/script>$/;"	function	line:13
+body	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^<body>$/;"	function	line:16
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^    <div class="container">$/;"	function	line:17
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <div class="row">$/;"	function	line:18
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-4">$/;"	function	line:19
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p>这是段落<\/p>$/;"	function	line:20
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p class="lead">这是突出显示的段落<\/p>$/;"	function	line:21
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-4">$/;"	function	line:23
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p><b>&lt;b&gt;默认样式<\/b><\/p>$/;"	function	line:24
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p><strong>&lt;strong&gt;默认样式<\/strong><\/p>$/;"	function	line:25
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p><small>&lt;small&gt样式<\/small><\/p>$/;"	function	line:26
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p class="small">.small样式<\/p>$/;"	function	line:27
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p><cite>&lt;cite&gt;样式<\/cite><\/p>$/;"	function	line:28
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p class="cite">.cite样式<\/p>$/;"	function	line:29
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-4">$/;"	function	line:31
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p class="text-left">.text-left<\/p>$/;"	function	line:32
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p class="text-center">.text-center<\/p>$/;"	function	line:33
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p class="text-right">.text-right<\/p>$/;"	function	line:34
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p class="text-justify">.text-justify<\/p>$/;"	function	line:35
+hr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <hr>$/;"	function	line:38
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <div class="row">$/;"	function	line:39
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-4">$/;"	function	line:40
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p>缩略词语法<\/p>$/;"	function	line:41
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p>$/;"	function	line:42
+abbr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <abbr title="这是提示语喔">测试缩略词<\/abbr>$/;"	function	line:43
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p>$/;"	function	line:45
+abbr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <abbr title="这是提示语2" class="initialism">测试缩略词2<\/abbr>$/;"	function	line:46
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-4">$/;"	function	line:49
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p>地址元素<\/p>$/;"	function	line:50
+address	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <address>$/;"	function	line:51
+strong	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <strong>Twitter, Inc<\/strong><br>$/;"	function	line:52
+abbr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <abbr title="Phone">P:<\/abbr>$/;"	function	line:54
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-4">$/;"	function	line:58
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p>引用<\/p>$/;"	function	line:59
+blockquote	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <blockquote>$/;"	function	line:60
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <p>测试引用<\/p>$/;"	function	line:61
+blockquote	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <blockquote class="pull-right">$/;"	function	line:63
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <p>不愤不启，不悱不发。举一隅，不以三隅反，则吾不复也。<\/p>$/;"	function	line:64
+small	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <small>出自<cite title="论语*述而">论语<\/cite><\/small>$/;"	function	line:65
+hr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <hr>$/;"	function	line:69
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <div class="row">$/;"	function	line:70
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-2">$/;"	function	line:71
+ul	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <ul>$/;"	function	line:72
+li	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <li>普通列表-1<\/li>$/;"	function	line:73
+li	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <li>普通列表-2<\/li>$/;"	function	line:74
+li	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <li>普通列表-3<\/li>$/;"	function	line:75
+li	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <li>普通列表-4<\/li>$/;"	function	line:76
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-2">$/;"	function	line:79
+ol	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <ol>$/;"	function	line:80
+li	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <li>有序列表-1<\/li>$/;"	function	line:81
+li	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <li>有序列表-2<\/li>$/;"	function	line:82
+li	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <li>有序列表-3<\/li>$/;"	function	line:83
+li	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <li>有序列表-4<\/li>$/;"	function	line:84
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-2">$/;"	function	line:87
+ul	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <ul class="list-unstyled">$/;"	function	line:88
+li	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <li>去点列表-1<\/li>$/;"	function	line:89
+li	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <li>去点列表-2<\/li>$/;"	function	line:90
+li	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <li>去点列表-3<\/li>$/;"	function	line:91
+li	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <li>去点列表-4<\/li>$/;"	function	line:92
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-2">$/;"	function	line:95
+ul	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <ul class="list-inline">$/;"	function	line:96
+li	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <li>内联列表-1<\/li>$/;"	function	line:97
+li	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <li>内联列表-2<\/li>$/;"	function	line:98
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-2">$/;"	function	line:101
+dl	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <dl>$/;"	function	line:102
+dt	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <dt>定义列表-1<\/dt>$/;"	function	line:103
+dt	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <dt>定义列表-2<\/dt>$/;"	function	line:104
+dt	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <dt>定义列表-3<\/dt>$/;"	function	line:105
+dt	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <dt>定义列表-4<\/dt>$/;"	function	line:106
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-2">$/;"	function	line:109
+dl	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <dl class="dl-horizontal">$/;"	function	line:110
+dt	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <dt>水平定义列表-1<\/dt>$/;"	function	line:111
+dt	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <dt>水平定义列表-2<\/dt>$/;"	function	line:112
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <div class="row">$/;"	function	line:116
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-4">$/;"	function	line:117
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p>单行内联代码<\/p>$/;"	function	line:118
+code	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <code>$/;"	function	line:119
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-4">$/;"	function	line:127
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p>用户输入代码<\/p>$/;"	function	line:128
+kbd	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <kbd>$/;"	function	line:129
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-4">$/;"	function	line:137
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p>多行代码<\/p>$/;"	function	line:138
+pre	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <pre class="pre-scrollable">$/;"	function	line:139
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <div class="row">$/;"	function	line:148
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-6">$/;"	function	line:149
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p><kbd>.table基础样式<\/kbd><\/p>$/;"	function	line:150
+table	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <table class="table">$/;"	function	line:151
+thead	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <thead>$/;"	function	line:152
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:153
+th	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <th>表头-1<\/th>$/;"	function	line:154
+th	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <th>表头-2<\/th>$/;"	function	line:155
+tbody	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <tbody>$/;"	function	line:158
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:159
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-1<\/td>$/;"	function	line:160
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-2<\/td>$/;"	function	line:161
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:163
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-1<\/td>$/;"	function	line:164
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-2<\/td>$/;"	function	line:165
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-6">$/;"	function	line:170
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p><kbd>.table-striped（带背景条纹）<\/kbd><\/p>$/;"	function	line:171
+table	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <table class="table table-striped">$/;"	function	line:172
+thead	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <thead>$/;"	function	line:173
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:174
+th	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <th>表头-1<\/th>$/;"	function	line:175
+th	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <th>表头-2<\/th>$/;"	function	line:176
+tbody	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <tbody>$/;"	function	line:179
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:180
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-1<\/td>$/;"	function	line:181
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-2<\/td>$/;"	function	line:182
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:184
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-1<\/td>$/;"	function	line:185
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-2<\/td>$/;"	function	line:186
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <div class="row">$/;"	function	line:192
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-6">$/;"	function	line:193
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p><kbd>.table-bordered（带边框）<\/kbd><\/p>$/;"	function	line:194
+table	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <table class="table table-bordered">$/;"	function	line:195
+thead	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <thead>$/;"	function	line:196
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:197
+th	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <th>表头-1<\/th>$/;"	function	line:198
+th	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <th>表头-2<\/th>$/;"	function	line:199
+tbody	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <tbody>$/;"	function	line:202
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:203
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-1<\/td>$/;"	function	line:204
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-2<\/td>$/;"	function	line:205
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:207
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-1<\/td>$/;"	function	line:208
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-2<\/td>$/;"	function	line:209
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-6">$/;"	function	line:214
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p><kbd>.table-hover（鼠标悬停高亮）<\/kbd><\/p>$/;"	function	line:215
+table	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <table class="table table-hover">$/;"	function	line:216
+thead	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <thead>$/;"	function	line:217
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:218
+th	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <th>表头-1<\/th>$/;"	function	line:219
+th	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <th>表头-2<\/th>$/;"	function	line:220
+tbody	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <tbody>$/;"	function	line:223
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:224
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-1<\/td>$/;"	function	line:225
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-2<\/td>$/;"	function	line:226
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:228
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-1<\/td>$/;"	function	line:229
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-2<\/td>$/;"	function	line:230
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <div class="row">$/;"	function	line:236
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-6">$/;"	function	line:237
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p><kbd>.table-condensed（紧凑型）<\/kbd><\/p>$/;"	function	line:238
+table	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <table class="table table-condensed">$/;"	function	line:239
+thead	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <thead>$/;"	function	line:240
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:241
+th	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <th>表头-1<\/th>$/;"	function	line:242
+th	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <th>表头-2<\/th>$/;"	function	line:243
+tbody	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <tbody>$/;"	function	line:246
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:247
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-1<\/td>$/;"	function	line:248
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-2<\/td>$/;"	function	line:249
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:251
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-1<\/td>$/;"	function	line:252
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容-2<\/td>$/;"	function	line:253
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-6">$/;"	function	line:258
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p><kbd>.table-responsive<\/kbd><\/p>$/;"	function	line:259
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <div class="table-responsive">$/;"	function	line:260
+table	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <table class="table">$/;"	function	line:261
+thead	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <thead>$/;"	function	line:262
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <tr>$/;"	function	line:263
+th	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                                <th>表头-1<\/th>$/;"	function	line:264
+th	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                                <th>表头-2<\/th>$/;"	function	line:265
+tbody	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tbody>$/;"	function	line:268
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <tr>$/;"	function	line:269
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                                <td>内容-1<\/td>$/;"	function	line:270
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                                <td>内容-2<\/td>$/;"	function	line:271
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <tr>$/;"	function	line:273
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                                <td>内容-1<\/td>$/;"	function	line:274
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                                <td>内容-2<\/td>$/;"	function	line:275
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <div class="row">$/;"	function	line:282
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-6">$/;"	function	line:283
+p	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <p>表格行级元素样式<\/p>$/;"	function	line:284
+table	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <table class="table table-striped table-bordered">$/;"	function	line:285
+thead	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <thead>$/;"	function	line:286
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:287
+th	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <th>标题-1<\/th>$/;"	function	line:288
+th	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <th>标题-2<\/th>$/;"	function	line:289
+tbody	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <tbody>$/;"	function	line:292
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:293
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容1-1<\/td>$/;"	function	line:294
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容2-1<\/td>$/;"	function	line:295
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr>$/;"	function	line:297
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容1-2<\/td>$/;"	function	line:298
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容2-2<\/td>$/;"	function	line:299
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr class="active">$/;"	function	line:301
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容1-2<\/td>$/;"	function	line:302
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容2-2<\/td>$/;"	function	line:303
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr class="success">$/;"	function	line:305
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容1-3<\/td>$/;"	function	line:306
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容2-3<\/td>$/;"	function	line:307
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr class="info">$/;"	function	line:309
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容1-4<\/td>$/;"	function	line:310
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容2-4<\/td>$/;"	function	line:311
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr class="warning">$/;"	function	line:313
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容1-5<\/td>$/;"	function	line:314
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容2-5<\/td>$/;"	function	line:315
+tr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <tr class="danger">$/;"	function	line:317
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容1-6<\/td>$/;"	function	line:318
+td	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <td>内容2-6<\/td>$/;"	function	line:319
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-6"><\/div>$/;"	function	line:324
+h	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <h1 class="text-center">表单元素<\/h1>$/;"	function	line:326
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <div class="row">$/;"	function	line:327
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-2">$/;"	function	line:328
+form	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <form action="#">$/;"	function	line:329
+fieldset	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <fieldset>$/;"	function	line:330
+legend	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <legend>Login<\/legend>$/;"	function	line:331
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <div class="form-group">$/;"	function	line:332
+label	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <label>Username<\/label>$/;"	function	line:333
+input	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <input type="email" class="form-control">$/;"	function	line:334
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <div class="form-group">$/;"	function	line:336
+label	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <label>Password<\/label>$/;"	function	line:337
+input	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <input type="text" class="form-control">$/;"	function	line:338
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <div class="checkbox">$/;"	function	line:340
+label	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                            <label><input type="checkbox">Remember Me<\/label>$/;"	function	line:341
+button	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <button type="submit" class="btn btn-default">Login<\/button>$/;"	function	line:343
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-10">$/;"	function	line:347
+form	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <form action="#" class="form-inline">$/;"	function	line:348
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <div class="form-group">$/;"	function	line:349
+label	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <label for="">Username:<\/label>$/;"	function	line:350
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <div class="form-group">$/;"	function	line:352
+input	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <input type="text" class="form-control" placeholder="Enter Username.">$/;"	function	line:353
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <div class="form-group">$/;"	function	line:355
+label	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <label for="">Password:<\/label>$/;"	function	line:356
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <div class="form-group">$/;"	function	line:358
+input	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <input type="text" class="form-control" placeholder="Enter Password.">$/;"	function	line:359
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <div class="checkbox">$/;"	function	line:361
+label	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <label for=""><input type="checkbox">Remember Me<\/label>$/;"	function	line:362
+button	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <button type="button" class="btn btn-primary">Login<\/button>$/;"	function	line:364
+hr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <hr>$/;"	function	line:368
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <div class="row">$/;"	function	line:369
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-3">$/;"	function	line:370
+input	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <input type="text" name="" value="" placeholder="文本输入框" class="form-control">$/;"	function	line:371
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-3">$/;"	function	line:373
+form	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <form action="">$/;"	function	line:374
+select	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <select name="" id="" class="form-control">$/;"	function	line:375
+option	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <option value="">1<\/option>$/;"	function	line:376
+option	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <option value="">2<\/option>$/;"	function	line:377
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-3">$/;"	function	line:381
+select	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <select name="" id="" class="form-control" multiple="multiple">$/;"	function	line:382
+option	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <option value="">a<\/option>$/;"	function	line:383
+option	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <option value="">b<\/option>$/;"	function	line:384
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-3">$/;"	function	line:387
+textarea	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <textarea name="name" rows="8" cols="80" class="form-control"><\/textarea>$/;"	function	line:388
+hr	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <hr>$/;"	function	line:391
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^        <div class="row">$/;"	function	line:392
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-3">$/;"	function	line:393
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <div class="checkbox">$/;"	function	line:394
+label	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <label for="">$/;"	function	line:395
+input	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <input type="checkbox">xxx$/;"	function	line:396
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-3">$/;"	function	line:400
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <div class="radio-inline">$/;"	function	line:401
+label	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <label for="">$/;"	function	line:402
+input	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <input type="radio" name="xx">xx1$/;"	function	line:403
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                <div class="radio-inline">$/;"	function	line:406
+label	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                    <label for="">$/;"	function	line:407
+input	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^                        <input type="radio" name="xx">yy1$/;"	function	line:408
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-3"><\/div>$/;"	function	line:412
+div	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^            <div class="col-md-3"><\/div>$/;"	function	line:413
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^    <script src="javascript\/jquery.js"><\/script>$/;"	function	line:416
+script	/Users/wanghui/project/show_me_the_code/bootstrap-example/deep-in-bootstrap/paragraph.html	/^    <script src="bootstrap-3.3.7\/dist\/js\/bootstrap.js"><\/script>$/;"	function	line:417

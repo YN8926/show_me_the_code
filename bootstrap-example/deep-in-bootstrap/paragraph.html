@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>h1~h6</title>
+    <link rel="stylesheet" href="bootstrap-3.3.7/dist/css/bootstrap.css">
+    <!-- 以下2个插件适用于在IE8支持HTML5元素和媒体查询,若不用可移除 -->
+    <!-- 注意:Respond.js不支持file://方式的访问 -->
+      <!-- [if lt IE 9] -->
+    <script src="http://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.js"></script>
+    <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.js"></script>
+    <!-- [endif] -->
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <p>这是段落</p>
+                <p class="lead">这是突出显示的段落</p>
+            </div>
+            <div class="col-md-4">
+                <p><b>&lt;b&gt;默认样式</b></p>
+                <p><strong>&lt;strong&gt;默认样式</strong></p>
+                <p><small>&lt;small&gt样式</small></p>
+                <p class="small">.small样式</p>
+                <p><cite>&lt;cite&gt;样式</cite></p>
+                <p class="cite">.cite样式</p>
+            </div>
+            <div class="col-md-4">
+                <p class="text-left">.text-left</p>
+                <p class="text-center">.text-center</p>
+                <p class="text-right">.text-right</p>
+                <p class="text-justify">.text-justify</p>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-4">
+                <p>缩略词语法</p>
+                <p>
+                    <abbr title="这是提示语喔">测试缩略词</abbr>
+                </p>
+                <p>
+                    <abbr title="这是提示语2" class="initialism">测试缩略词2</abbr>
+                </p>
+            </div>
+            <div class="col-md-4">
+                <p>地址元素</p>
+                <address>
+                    <strong>Twitter, Inc</strong><br>
+                    xxx<br>
+                    <abbr title="Phone">P:</abbr>
+                    123-111-231
+                </address>
+            </div>
+            <div class="col-md-4">
+                <p>引用</p>
+                <blockquote>
+                    <p>测试引用</p>
+                </blockquote>
+                <blockquote class="pull-right">
+                    <p>不愤不启，不悱不发。举一隅，不以三隅反，则吾不复也。</p>
+                    <small>出自<cite title="论语*述而">论语</cite></small>
+                </blockquote>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-2">
+                <ul>
+                    <li>普通列表-1</li>
+                    <li>普通列表-2</li>
+                    <li>普通列表-3</li>
+                    <li>普通列表-4</li>
+                </ul>
+            </div>
+            <div class="col-md-2">
+                <ol>
+                    <li>有序列表-1</li>
+                    <li>有序列表-2</li>
+                    <li>有序列表-3</li>
+                    <li>有序列表-4</li>
+                </ol>
+            </div>
+            <div class="col-md-2">
+                <ul class="list-unstyled">
+                    <li>去点列表-1</li>
+                    <li>去点列表-2</li>
+                    <li>去点列表-3</li>
+                    <li>去点列表-4</li>
+                </ul>
+            </div>
+            <div class="col-md-2">
+                <ul class="list-inline">
+                    <li>内联列表-1</li>
+                    <li>内联列表-2</li>
+                </ul>
+            </div>
+            <div class="col-md-2">
+                <dl>
+                    <dt>定义列表-1</dt>
+                    <dt>定义列表-2</dt>
+                    <dt>定义列表-3</dt>
+                    <dt>定义列表-4</dt>
+                </dl>
+            </div>
+            <div class="col-md-2">
+                <dl class="dl-horizontal">
+                    <dt>水平定义列表-1</dt>
+                    <dt>水平定义列表-2</dt>
+                </dl>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <p>单行内联代码</p>
+                <code>
+                    public class T{
+                        public static main(String[] args){
+
+                        }
+                    }
+                </code>
+            </div>
+            <div class="col-md-4">
+                <p>用户输入代码</p>
+                <kbd>
+                    public class T{
+                        public static main(String[] args){
+
+                        }
+                    }
+                </kbd>
+            </div>
+            <div class="col-md-4">
+                <p>多行代码</p>
+                <pre class="pre-scrollable">
+                    public class T{
+                        public static main(String[] args){
+
+                        }
+                    }
+                </pre>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <p><kbd>.table基础样式</kbd></p>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>表头-1</th>
+                            <th>表头-2</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>内容-1</td>
+                            <td>内容-2</td>
+                        </tr>
+                        <tr>
+                            <td>内容-1</td>
+                            <td>内容-2</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-md-6">
+                <p><kbd>.table-striped（带背景条纹）</kbd></p>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>表头-1</th>
+                            <th>表头-2</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>内容-1</td>
+                            <td>内容-2</td>
+                        </tr>
+                        <tr>
+                            <td>内容-1</td>
+                            <td>内容-2</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <p><kbd>.table-bordered（带边框）</kbd></p>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>表头-1</th>
+                            <th>表头-2</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>内容-1</td>
+                            <td>内容-2</td>
+                        </tr>
+                        <tr>
+                            <td>内容-1</td>
+                            <td>内容-2</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-md-6">
+                <p><kbd>.table-hover（鼠标悬停高亮）</kbd></p>
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>表头-1</th>
+                            <th>表头-2</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>内容-1</td>
+                            <td>内容-2</td>
+                        </tr>
+                        <tr>
+                            <td>内容-1</td>
+                            <td>内容-2</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <p><kbd>.table-condensed（紧凑型）</kbd></p>
+                <table class="table table-condensed">
+                    <thead>
+                        <tr>
+                            <th>表头-1</th>
+                            <th>表头-2</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>内容-1</td>
+                            <td>内容-2</td>
+                        </tr>
+                        <tr>
+                            <td>内容-1</td>
+                            <td>内容-2</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-md-6">
+                <p><kbd>.table-responsive</kbd></p>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>表头-1</th>
+                                <th>表头-2</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>内容-1</td>
+                                <td>内容-2</td>
+                            </tr>
+                            <tr>
+                                <td>内容-1</td>
+                                <td>内容-2</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <p>表格行级元素样式</p>
+                <table class="table table-striped table-bordered">
+                    <thead>
+                        <tr>
+                            <th>标题-1</th>
+                            <th>标题-2</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>内容1-1</td>
+                            <td>内容2-1</td>
+                        </tr>
+                        <tr>
+                            <td>内容1-2</td>
+                            <td>内容2-2</td>
+                        </tr>
+                        <tr class="active">
+                            <td>内容1-2</td>
+                            <td>内容2-2</td>
+                        </tr>
+                        <tr class="success">
+                            <td>内容1-3</td>
+                            <td>内容2-3</td>
+                        </tr>
+                        <tr class="info">
+                            <td>内容1-4</td>
+                            <td>内容2-4</td>
+                        </tr>
+                        <tr class="warning">
+                            <td>内容1-5</td>
+                            <td>内容2-5</td>
+                        </tr>
+                        <tr class="danger">
+                            <td>内容1-6</td>
+                            <td>内容2-6</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-md-6"></div>
+        </div>
+        <h1 class="text-center">表单元素</h1>
+        <div class="row">
+            <div class="col-md-2">
+                <form action="#">
+                    <fieldset>
+                        <legend>Login</legend>
+                        <div class="form-group">
+                            <label>Username</label>
+                            <input type="email" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <label>Password</label>
+                            <input type="text" class="form-control">
+                        </div>
+                        <div class="checkbox">
+                            <label><input type="checkbox">Remember Me</label>
+                        </div>
+                        <button type="submit" class="btn btn-default">Login</button>
+                    </fieldset>
+                </form>
+            </div>
+            <div class="col-md-10">
+                <form action="#" class="form-inline">
+                    <div class="form-group">
+                        <label for="">Username:</label>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Enter Username.">
+                    </div>
+                    <div class="form-group">
+                        <label for="">Password:</label>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Enter Password.">
+                    </div>
+                    <div class="checkbox">
+                        <label for=""><input type="checkbox">Remember Me</label>
+                    </div>
+                    <button type="button" class="btn btn-primary">Login</button>
+                </form>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-3">
+                <input type="text" name="" value="" placeholder="文本输入框" class="form-control">
+            </div>
+            <div class="col-md-3">
+                <form action="">
+                    <select name="" id="" class="form-control">
+                        <option value="">1</option>
+                        <option value="">2</option>
+                    </select>
+                </form>
+            </div>
+            <div class="col-md-3">
+                <select name="" id="" class="form-control" multiple="multiple">
+                    <option value="">a</option>
+                    <option value="">b</option>
+                </select>
+            </div>
+            <div class="col-md-3">
+                <textarea name="name" rows="8" cols="80" class="form-control"></textarea>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="checkbox">
+                    <label for="">
+                        <input type="checkbox">xxx
+                    </label>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="radio-inline">
+                    <label for="">
+                        <input type="radio" name="xx">xx1
+                    </label>
+                </div>
+                <div class="radio-inline">
+                    <label for="">
+                        <input type="radio" name="xx">yy1
+                    </label>
+                </div>
+            </div>
+            <div class="col-md-3"></div>
+            <div class="col-md-3"></div>
+        </div>
+    </div>
+    <script src="javascript/jquery.js"></script>
+    <script src="bootstrap-3.3.7/dist/js/bootstrap.js"></script>
+</body>
+</html>
