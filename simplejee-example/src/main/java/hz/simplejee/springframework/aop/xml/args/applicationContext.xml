@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <bean class="hz.simplejee.springframework.aop.xml.args.Foo2" id="foo2"/>
+    <bean class="hz.simplejee.springframework.aop.xml.args.Foo"/>
+    <aop:config>
+        <aop:aspect ref="foo2">
+            <aop:pointcut id="t"
+                          expression="execution(* hz.simplejee.springframework.aop.xml.args.Foo.sayHello(String)) and args(name)"/>
+            <aop:before method="wrape" arg-names="name" pointcut-ref="t"/>
+        </aop:aspect>
+    </aop:config>
+</beans>

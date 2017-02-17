@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <bean id="foo" class="hz.simplejee.springframework.aop.xml.Foo"/>
+
+    <bean class="hz.simplejee.springframework.aop.xml.Boo"/>
+    <aop:config>
+        <aop:pointcut id="t" expression="execution(* hz.simplejee.springframework.aop.xml.Boo.sayHello(..))" />
+        <aop:aspect ref="foo">
+            <aop:before pointcut="execution(* hz.simplejee.springframework.aop.xml.Boo.sayHello(..))" method="before"/>
+            <aop:before pointcut="execution(* hz.simplejee.springframework.aop.xml.Boo.sayHello(..))" method="before2"/>
+            <aop:after-returning pointcut="execution(* hz.simplejee.springframework.aop.xml.Boo.sayHello(..))" method="after"/>
+            <aop:after-throwing method="exceptionHandler" pointcut-ref="t"/>
+        </aop:aspect>
+    </aop:config>
+</beans>

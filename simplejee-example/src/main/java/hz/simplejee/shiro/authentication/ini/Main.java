@@ -33,8 +33,14 @@ public class Main {
         UsernamePasswordToken token = new UsernamePasswordToken("zhangsan", "123");
 
         try {
+            /**
+             * 登录，进行身份验证,会委托给SecurityManage的login方法
+             */
             subject.login(token);
         } catch (AuthenticationException e) {
+            /**
+             * 身份验证失败
+             */
             e.printStackTrace();
         }
         Assert.assertTrue(subject.isAuthenticated());
