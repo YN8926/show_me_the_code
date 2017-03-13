@@ -34,6 +34,7 @@ public class VerifyTest {
         l.add(3);
         l.add(3);
         l.add(3);
+        verify(l).add(1);
         //此方法被执行了一次
         verify(l, times(1)).add(1);
         //此方法被执行了二次
@@ -70,4 +71,11 @@ public class VerifyTest {
         inOrder.verify(l2).add(2);
     }
 
+    @Test
+    public void test_4(){
+        List list = mock(List.class);
+        list.add(1);
+
+        verifyZeroInteractions(list);
+    }
 }

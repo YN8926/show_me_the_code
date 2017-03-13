@@ -1,0 +1,6 @@
+name : 测试数据
+address:
+ - cityId: 1
+   name: xxoo
+ - cityId: 2
+   name: xxoo2

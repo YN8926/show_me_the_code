@@ -2,9 +2,11 @@ package hz.simplejee.unittest.mockito;
 
 import org.junit.Assert;
 import org.junit.Test;
-import static org.mockito.Mockito.*;
+
 import java.util.Iterator;
 import java.util.List;
+
+import static org.mockito.Mockito.*;
 
 /**
  * Created by wanghui on 29/11/2016.
@@ -24,5 +26,15 @@ public class Hello {
         when(list.get(0)).thenReturn("abc");
         Assert.assertEquals("abc", list.get(0));
         verify(list, times(1)).get(0);
+    }
+
+    @Test
+    public void hello() {
+        List list = mock(List.class);
+        list.add("one");
+        list.clear();;
+
+        verify(list).add("one");
+        verify(list).clear();
     }
 }

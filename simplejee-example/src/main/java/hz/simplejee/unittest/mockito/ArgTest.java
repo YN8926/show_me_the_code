@@ -6,6 +6,7 @@ import org.mockito.ArgumentMatcher;
 
 import java.util.List;
 
+import static org.assertj.core.api.Assertions.assertThat;
 import static org.mockito.Mockito.*;
 
 /**
@@ -36,5 +37,15 @@ public class ArgTest {
             }
         }))).thenReturn(true);
         Assert.assertTrue(l.contains(123));
+    }
+
+    @Test
+    public void test_3() {
+        List list = mock(List.class);
+        when(list.contains(eq(1))).thenReturn(Boolean.TRUE);
+
+        assertThat(list.contains(10)).isFalse();
+        assertThat(list.contains(1)).isTrue();
+
     }
 }

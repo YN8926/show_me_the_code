@@ -6,6 +6,7 @@ import org.junit.Test;
 import java.util.ArrayList;
 import java.util.List;
 
+import static org.assertj.core.api.Assertions.assertThat;
 import static org.mockito.Mockito.spy;
 import static org.mockito.Mockito.when;
 
@@ -16,12 +17,23 @@ import static org.mockito.Mockito.when;
 public class SpyTest {
 
     @Test
-    public void test_1(){
+    public void test_1() {
         List<String> list = new ArrayList<>();
         List<String> spy = spy(list);
         when(spy.size()).thenReturn(999);
-        Assert.assertEquals(999,spy.size());
+        Assert.assertEquals(999, spy.size());
     }
 
+    @Test
+    public void test_2() {
+        List<String> list = new ArrayList<>();
+        list = spy(list);
+        list.add("Hello");
+        list.add("World");
+        when(list.get(1)).thenReturn("xxoo");
+
+        assertThat(list.get(0)).isEqualTo("Hello");
+        assertThat(list.get(1)).isEqualTo("xxoo");
+    }
 
 }
