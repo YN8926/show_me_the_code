@@ -2,7 +2,6 @@ package hz.simplejee.unittest.assertj;
 
 import org.assertj.core.util.Lists;
 import org.junit.Test;
-import org.springframework.util.Assert;
 
 import java.util.ArrayList;
 

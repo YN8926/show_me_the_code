@@ -8,7 +8,7 @@ import org.junit.Test;
  */
 public class HTMLEncodeTest {
     @Test
-    public void testEscape(){
+    public void testEscape() {
         String text = "我来\n\r自地球.";
         System.out.println(text);
         System.out.println(StringEscapeUtils.unescapeJava(text));
